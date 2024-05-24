@@ -4,7 +4,6 @@
 
 This is a versatile image conversion and compression tool designed to streamline the process of converting images between various formats and compressing them for optimized storage or web usage. With a user-friendly command-line interface, this tool offers a seamless experience for both novice and experienced users.
 
-Certainly! Here's an extensive description of the features of the Image Conversion and Compression Tool for your GitHub README:
 
 ---
 
